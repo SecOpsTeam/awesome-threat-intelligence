@@ -1,3 +1,7 @@
+### IT SecurityTelegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
 # awesome-threat-intelligence
 A curated list of awesome Threat Intelligence resources
 
